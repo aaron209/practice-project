@@ -1,0 +1,9 @@
+Regression:
+  1:
+    scenario: Verify 200 response for the service
+    name: this is my name
+    salary: this is my salary
+    age : this is my age
+    responseCode: 200
+    expectedNameField: data.name
+    expectedNameValue: this is my name
